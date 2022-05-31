@@ -1,6 +1,5 @@
 Learning DBT, first project
 
-
 Try running the following commands:
 - dbt run
 - dbt test
