@@ -1,11 +1,10 @@
-Welcome to your new dbt project!
-
-### Using the starter project
+Learning DBT, first project
 
 Try running the following commands:
 - dbt run
 - dbt test
 
+Has examples of tests, seeds, packages, documentation with markdown, etc.
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
